@@ -1,4 +1,4 @@
-package com.vamsi.spring.basics.springin5stepts;
+package com.vamsi.spring.basics.springin5stepts.basic;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

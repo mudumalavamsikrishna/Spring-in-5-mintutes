@@ -1,4 +1,4 @@
-package com.vamsi.spring.basics.springin5stepts;
+package com.vamsi.spring.basics.springin5stepts.basic;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
